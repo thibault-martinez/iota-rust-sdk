@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["simple_signature_from_bcs","simple_signature_to_bcs","user_signature_from_bcs","user_signature_to_bcs"],"struct":["SimpleSignature","UserSignature"]};

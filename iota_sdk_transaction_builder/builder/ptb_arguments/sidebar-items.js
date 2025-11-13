@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["res"],"struct":["Receiving","Res","Shared","SharedMut"],"trait":["PTBArgument","PTBArgumentList"]};

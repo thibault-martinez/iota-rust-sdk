@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["passkey_authenticator_from_bcs","passkey_authenticator_to_bcs"],"struct":["PasskeyAuthenticator","PasskeyPublicKey"]};
