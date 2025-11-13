@@ -5,7 +5,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota-rust-sdk/bindings/go/iota_sdk"
+	"github.com/thibault-martinez/iota-rust-sdk/bindings/go/iota_sdk"
 	"log"
 )
 

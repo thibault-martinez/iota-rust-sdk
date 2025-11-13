@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/iotaledger/iota-rust-sdk/bindings/go/iota_sdk"
+	"github.com/thibault-martinez/iota-rust-sdk/bindings/go/iota_sdk"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/iotaledger/iota-rust-sdk/bindings/go/iota_sdk"
+	"github.com/thibault-martinez/iota-rust-sdk/bindings/go/iota_sdk"
 )
 
 const MNEMONIC = "round attack kitchen wink winter music trip tiny nephew hire orange what"
